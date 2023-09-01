@@ -1,8 +1,7 @@
 .navbarinfo{
     display: flex;
     justify-content: space-between;
-    height: 10vh;
-    background-color: #d2e0ee;
+    height: 5%;
     padding: 0 2%;
 }
 
@@ -39,6 +38,8 @@
     list-style: none;
     align-items: center;
     color: #168bfe;
+    display: flex;
+    
 }
 
 .navitems ul li img{
